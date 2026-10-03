@@ -13,7 +13,7 @@
 ### 2.1. Proposed Architecture
 ```
 ┌─────────────────────────────┐
-│       Your Python code      │
+│       Python code           │
 │                             │
 │  agent                      │
 │  navigation                 │
